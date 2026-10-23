@@ -10,6 +10,9 @@ Builds only: this repo holds no source code. Downloads are on the [Releases](../
 2. Open it and allow installs from that app when Android asks.
 3. Plug in your radio over USB-OTG (EdgeTX/OpenTX USB joystick mode). Set it up with **RADIO** on the main menu.
 
+Tune the flight feel in **SETTINGS**: motor KV (top speed), props (punch), air drag, prop wash, and a Betaflight-style
+THROTTLE section (motor idle, throttle mid, throttle expo, throttle limit) that shows where the drone hovers on the stick.
+
 Test build: debug-signed, so Android may warn that it's from an unknown developer.
 
 ## Browser
